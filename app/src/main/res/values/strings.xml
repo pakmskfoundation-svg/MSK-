@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MSK AI Voice Studio</string>
+    <string name="brand_tagline">Your Words. Every Voice. Powered by AI.</string>
+    <string name="hero_heading">Turn Text into Natural-Sounding Speech.</string>
+    <string name="footer_attribution">Created with passion by MSK &amp; Team</string>
+    <string name="tab_studio">Studio</string>
+    <string name="tab_voices">Voices</string>
+    <string name="tab_tools">AI Tools</string>
+    <string name="tab_history">Dashboard</string>
+    <string name="tab_guide">Resources</string>
+    <string name="btn_generate_audio">Generate Audio</string>
+    <string name="btn_preview_voice">Voice Preview</string>
+    <string name="btn_download_audio">Download Audio</string>
+    <string name="btn_share_audio">Share Audio</string>
+    <string name="btn_copy_text">Copy Text</string>
+    <string name="btn_clear_text">Clear Text</string>
+    <string name="status_preparing">Preparing your voice…</string>
+    <string name="status_generating">Generating speech…</string>
+    <string name="status_finalizing">Finalizing audio…</string>
+    <string name="download_success">Audio saved to Downloads/MSK_AI_Voice_Studio</string>
+</resources>

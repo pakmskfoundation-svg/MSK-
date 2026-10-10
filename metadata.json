@@ -1,0 +1,6 @@
+{
+  "name": "MSK AI Voice Studio",
+  "description": "Multilingual AI Text-to-Speech Studio with Neural Gemini TTS, On-Device Speech Synthesis, Voice Library, Audio Tools, and WAV/MP3 Downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
